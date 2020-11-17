@@ -1,5 +1,5 @@
 <?php
 
 $a = 'aaa';
-$a = 'aaa';
+$a = 'bbb';
 $a = 'ccc';
